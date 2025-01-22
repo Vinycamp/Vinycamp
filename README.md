@@ -1,4 +1,4 @@
-<h2 align="left">Hello! My name is Vinícius and I'm a Java developer, from Brazil!<br><br>I'm a Computer Science student in UECE - Universidade Estadual do Ceará</h2>
+<h2 align="left">Hello! My name is Vinícius and I'm a developer, from Brazil!<br><br>I'm a Computer Science student in UECE - Universidade Estadual do Ceará</h2>
 
 ###
 
